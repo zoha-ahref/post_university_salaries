@@ -1,0 +1,2 @@
+# post_university_salaries
+Data Exploration with Pandas by Analysing the Post-University Salaries of Graduates by Major. I have used PayScale data to answer questions like, Which degrees have the highest starting salaries?   Which majors have the lowest earnings after college?  Which degrees have the highest earning potential?  What are the lowest risk college majors from an earnings standpoint?. Jupyter Notebook is used to explore pandas DataFrame.
